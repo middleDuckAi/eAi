@@ -10,11 +10,11 @@ This document is the detailed, structured guide for integrating Laravel AI SDK i
 
 ## 2) Requirements
 - Evolution CMS 3.5.2+
-- PHP 8.4+
+- PHP 8.3+
 - Composer 2.2+
 
 Optional:
-- sTask for async execution (currently `dev-main` from the main repo)
+- sTask for async execution (package constraint: `^1.0`)
 
 ## 3) Install
 ```bash

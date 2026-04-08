@@ -12,11 +12,11 @@ If you only need a quick start and examples, use this README. For full details s
 
 ## Requirements
 - Evolution CMS 3.5.2+
-- PHP 8.4+
+- PHP 8.3+
 - Composer 2.2+
 
 Optional:
-- sTask for async tasks (currently `dev-main` from the main repo)
+- sTask for async tasks (package constraint: `^1.0`)
 
 ## Quick Start
 From your Evo `core` directory:
